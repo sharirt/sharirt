@@ -13,9 +13,9 @@
 <!-- About Me -->
 I have a strong passion for innovation and continuous learning. 😄
 
+- 🎓 Computer Science graduate from Reichman University, Israel 🎓
 - 🌱 Interested in all things Python 🚀
 - 💡 Thrive in technological environments, where creativity, problem-solving, and collaboration are key 🎯
-- 🎓 Computer Science graduate from Reichman University, Israel 🎓
 - ✨ Eager to make a meaningful impact and contribute to forward-thinking teams and projects 🌟
 <br/><br/>
 
